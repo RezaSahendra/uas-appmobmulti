@@ -1,0 +1,50 @@
+page-home {
+    .header .toolbar-title{
+        text-align: center;
+        color: white !important;
+    }
+
+    .right {
+        text-align: right;
+    }
+
+    .nama {
+        font-style: italic;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 12px;
+    }
+
+    .judul{
+        font-weight: bold;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif; 
+        text-align:justify
+    }
+
+    .deskripsi{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        text-align: justify;
+    }
+
+    .sub{
+        font-size: 8px;
+        font-style: italic;
+        padding-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .gambar{
+        float: right;
+        width: 50%;
+        height: 40;
+        margin-right: 10px;
+    }
+    .toolbar {
+        .toolbar-background{
+            background-color: orangered ;
+        }
+    }
+    
+
+}
